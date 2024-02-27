@@ -1,2 +1,2 @@
 # MARGEN-TEA
-TEA TESTNET
+tea7
